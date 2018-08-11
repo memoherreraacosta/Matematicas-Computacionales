@@ -1,1 +1,28 @@
 
+Automatas, computabilidad y complejidad. 
+
+
+Teoría de la computación:
+ - Automatas, computabilidad, complejidad.
+ 
+ Teoría de la complejidad: 
+ - Los problemas computacionales son variados: algunos fáciles ( ordenamientos, búsqueda, etc. ), otros muy difíciles ( organizar horarios escolares ) 
+ 
+ Para resolver un problema, tenemos que entender la raíz del problema para que sea más fácil de resolver. 
+ 
+ En la criptografía se prefieren los problemas difíciles
+ 
+ Teoría de Automatas: 
+  -Maneja definiciones y propiedades de los modelos matemáticos. 
+  Uno de los automatas más usados son los autómatas finitos, otro modelo es gramáticas libres de contexto
+  
+  ¿Cómo llamarías un objeto que puede abarbar varios objetos? - Conjunto (puede abarcar cualquier tipo de elementos o miembros)
+  
+  Una manera de representar un conjunto es con llaves ( A={1,2,3,4,5} )
+  Otra manera de usar proposiciones es A = { x | P(x) }
+  Los conjuntos se caracterizan por su contenido y no por el orden
+  Los símbolos de conjutnos indican membresía 
+  
+  ¿Que es un conjunto? E
+  
+  Existen Leyes de complemento.
